@@ -1,7 +1,7 @@
 Coding Test Solutions
 
  Language Used:
-- Java (JDK 17)
+- Java 
 
 Files:
 1. Calculator.java → Solution for Problem 1
